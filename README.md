@@ -1,1 +1,0 @@
-# Disaster_Victim_Detection
